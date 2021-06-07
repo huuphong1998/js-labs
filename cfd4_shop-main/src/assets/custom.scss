@@ -1,0 +1,25 @@
+.cartItem-num {
+    border: none;
+    width: 50px;
+    text-align: center;
+}
+
+.cartItem-button {
+    border: 1px solid #ccc;
+    width: 30px;
+    border-radius: 3px;
+}
+
+.error-text {
+    font-size: 13;
+    font-style: italic;
+    color: red;
+}
+
+.error-input {
+    border-color: red;
+}
+
+.error-input::placeholder {
+    color: red;
+}
